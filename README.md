@@ -1,7 +1,7 @@
 # EvolvingGraphs
 
 [![Build Status](https://travis-ci.org/alexmorley/EvolvingGraphs.jl.svg?branch=master)](https://travis-ci.org/alexmorley/EvolvingGraphs.jl)
-[![codecov.io](https://codecov.io/github/weijianzhang/EvolvingGraphs.jl/coverage.svg?branch=master)](https://codecov.io/github/weijianzhang/EvolvingGraphs.jl?branch=master)
+[![codecov.io](https://codecov.io/github/alexmorley/EvolvingGraphs.jl/coverage.svg?branch=master)](https://codecov.io/github/alexmorley/EvolvingGraphs.jl?branch=master)
 
 Dynamic Graph Analysis Framework in Julia.
 
